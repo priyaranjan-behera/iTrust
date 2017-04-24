@@ -18,7 +18,7 @@
 <Resource
 	username="root" 
 	password=""
-	url="jdbc:mysql://52.90.226.90:3306/itrust?createDatabaseIfNotExist=true"		
+	url="jdbc:mysql://localhost:3306/itrust?createDatabaseIfNotExist=true"		
 	name="jdbc/itrust"
 	auth="Container"
 	type="javax.sql.DataSource"
